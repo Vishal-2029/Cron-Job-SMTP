@@ -2,13 +2,13 @@
  - What is the SMTP
 
  `
- SMTP (Simple Mail Transfer Protocol) is an internet standard protocol used for sending emails between servers. It defines how emails are sent, relayed, and delivered over the internet.
+     SMTP (Simple Mail Transfer Protocol) is an internet standard protocol used for sending emails between servers. It defines how emails are sent, relayed, and delivered over the internet.
  `
 
  - what is the Cron Job
 
  `
-A cron job is a scheduled task that runs automatically at a specified time or interval on a Unix/Linux system. It is used for automating repetitive tasks such as backups, log rotation, or running scripts.
+    A cron job is a scheduled task that runs automatically at a specified time or interval on a Unix/Linux system. It is used for automating repetitive tasks such as backups, log rotation, or running scripts.
  `
 
 ## A cron job is written as:
